@@ -45,3 +45,8 @@ int main(void){
 
 **치킨** 먹다가 ~~두드러기~~가 났어요ㅠㅜ
 
+
+
+
+[깃허브 사용법]<https://towering-workshop-de1.notion.site/Github-e6224883d64b4c7ba51fe5e85ebca859>
+
